@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Your friendly neighborhood, Frontend Developer | Digital Designer</h3>
 
 - 🔭 I’m currently working on [Sound of Silence](https://github.com/Gabriel-Velez/sound-of-silence)
 
